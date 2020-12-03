@@ -1,0 +1,14 @@
+{
+   "settings":{
+      "online":{
+         "adminUrl":"https://<tenant>-admin.sharepoint.com/",
+         "userName":"divya@<tenant>.onmicrosoft.com",
+         "password":"<pwd>"
+      },
+      "onPrem":{
+         "userName":"<uname>",
+         "password":"pwd"
+      },
+      "sourceCSV":"C:\\Users\\Divya\\Desktop\\Temp\\sites.csv"
+   }
+}
